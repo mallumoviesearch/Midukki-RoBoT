@@ -147,3 +147,5 @@ How To Deploy 👉
 </h1>
 
 <img align="center" width="50%" src="https://gpvc.arturio.dev/Midukki-RoboT" alt="Profile views" />
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/rDFvfO?referralCode=HXY4Sz)
