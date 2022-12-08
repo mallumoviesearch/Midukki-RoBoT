@@ -255,39 +255,10 @@ async def callback_ui(client, query):
             await query.answer("Hey Bro or Sis 🙏 Your Not A Authorized User", show_alert=True)
 
 class vars(object):
-    start_buttons = [
-        [
-            button()
-                (
-                    "➕️ Add Me To Your Group ➕️",
-                        url=f"https://t.me/{Bots.BOT_USERNAME}?startgroup=new"
-                )
-        ],
-        [
-            button()
-                (
-                    "Support",
-                        url="https://t.me/+sv5flNs7yew1OTk1"
-                ),
-            button()
-                (
-                    "Updates",
-                        url="https://t.me/Mo_Tech_YT"
-                )
-        ],
-        [
-            button()
-                (
-                    "Help",
-                        callback_data="maincb+help_cb"
-                ),
-            button()
-                (
-                    "About",
-                       callback_data="maincb+about_cb"
-                )
-        ]
-    ]
+    start_buttons = buttons = [[
+            InlineKeyboardButton('⚚ J̳O̳I̳N̳ ̳T̳O̳ ̳B̳O̳T̳ ̳G̳R̳O̳U̳P̳ ⚚', url='https://t.me/mallu_movie_search')
+             ]]
+        
     help_buttons = [
         [
             button()(
