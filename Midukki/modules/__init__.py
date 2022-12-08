@@ -259,8 +259,8 @@ class vars(object):
         [
             button()
                 (
-                    "➕️ Add Me To Your Group ➕️",
-                        url=f"https://t.me/{Bots.BOT_USERNAME}?startgroup=new"
+                    "⚚ J̳O̳I̳N̳ ̳T̳O̳ ̳B̳O̳T̳ ̳G̳R̳O̳U̳P̳ ⚚",
+                        url="https://t.me/mallu_movie_search"
                 )
        ] ]   
     help_buttons = [
