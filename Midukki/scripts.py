@@ -1,11 +1,9 @@
 START_TXT = """
-Hello 👋 {mention} 
+𝖧𝖤𝖫𝖮 {mention} 
 
-I'm <b>{bot}</b> ✨ an advanced telegram Group management
+𝖬𝖸 𝖭𝖠𝖬𝖤 𝖨𝖲 <b>{bot}</b> 𝖨 𝖠𝖬 𝖦𝖱𝖮𝖴𝖯 𝖬𝖠𝖭𝖠𝖦𝖤𝖱 𝖡𝖮𝖳 𝖢𝖱𝖤𝖠𝖳𝖤𝖣 𝖥𝖮𝖱 𝖬𝖠𝖫𝖫𝖴 𝖬𝖮𝖵𝖨𝖤 𝖲𝖤𝖠𝖱𝖢𝖧 , 𝖮𝖭𝖨𝖸 𝖠𝖴𝖳𝖧𝖮𝖱𝖨𝖲𝖤𝖣 𝖠𝖣𝖬𝖨𝖭𝖲 𝖢𝖠𝖭 𝖠𝖢𝖢𝖤𝖲𝖲
 
-I'm here to help you manage your groups! Hit /help to find out more about how to use me to my full potential..!
-
-
+𝖣𝖮𝖭 𝖳 𝖶𝖠𝖲𝖳𝖤 𝖸𝖮𝖴𝖱 𝖳𝖨𝖬𝖤😁
 """
 
 HELP_TXT = """
