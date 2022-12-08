@@ -262,8 +262,7 @@ class vars(object):
                     "➕️ Add Me To Your Group ➕️",
                         url=f"https://t.me/{Bots.BOT_USERNAME}?startgroup=new"
                 )
-       ] ],
-        
+       ] ]   
     help_buttons = [
         [
             button()(
